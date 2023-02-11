@@ -1,2 +1,3 @@
-# Food_Website
-React and TailwindCSS
+# Food Website
+React and TailwindCSS used in this projects
+
